@@ -35,10 +35,10 @@ so the first led in the row will turn on!
 
 ## 🛠️ Hardware
 
-ESP32
-5 × LEDs
-5 × current-limiting resistors (i've used 330Ω ones)
-Laptop camera
+- ESP32
+- 5 × LEDs
+- 5 × current-limiting resistors (i've used 330Ω ones)
+- Laptop camera
 
 ## 💻 Python Libraries
 OpenCV (to control camera) 
@@ -57,6 +57,8 @@ or example:
 <p align="center">
   <img src="demo.gif" width="50%">
 </p>
+
+p.s. credit to my brother for participating in demo video. :)
 
 ## 💻 Source Code
 > PYTHON `main.py`
