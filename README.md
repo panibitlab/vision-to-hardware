@@ -47,7 +47,7 @@ then 2 + 5 = 7
 The project can also display 10 using two digits.
 
 ---
-Each project contains its own code, hardware information, and documentation. Demos GIFs are included inside each project folder.
+Each project contains its own code, hardware information, and documentation. Demo GIFs are included inside each project folder.
 
 ### ⚠️ Notes
 1) Most projects use a laptop camera for computer vision and an ESP32 for hardware control.
